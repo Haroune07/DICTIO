@@ -3,14 +3,13 @@ package com.dictiofx.code;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
+import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class HelloController {
@@ -27,7 +26,7 @@ public class HelloController {
     Dictionnaire dictionnaire = new Dictionnaire();
     List<String> listeDeMots = new ArrayList<>();
 
-    public HelloController() throws IOException {
+    public HelloController() {
 
     }
 
@@ -112,11 +111,11 @@ public class HelloController {
 
         search.textProperty().addListener((observable, oldValue, newValue) -> {
             searchList.getChildren().clear(); // Clear previous search results
-            List<String> listeFiltree = listeDeMots.stream()
+            List<String> listeFiltre = listeDeMots.stream()
                     .filter(item -> item.toLowerCase().contains(newValue.toLowerCase()))
                     .toList();
 
-            for (String mot : listeFiltree) {
+            for (String mot : listeFiltre) {
                 Button bouton = new Button(mot);
                 bouton.setOnAction(_ -> setTextAreaForSearch(mot));
                 bouton.setBackground(searchList.getBackground());// Pass the word directly

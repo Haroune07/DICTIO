@@ -23,10 +23,6 @@ public class Dictionnaire {
         ajouter(mot1);
     }
 
-    public void enlever(String mot){
-        mots.remove(mot);
-    }
-
     public Mot get(String mot){
         return mots.get(mot);
     }
