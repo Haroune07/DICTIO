@@ -1,0 +1,77 @@
+Omniprésent @@ Qui est présent partout à la fois.
+%%Désabusé @@ Qui a perdu ses illusions, déçu par la vie.
+%%Omnipotent @@ Qui est tout-puissant, qui peut tout faire.
+%%Jubilatoire @@ Qui provoque une grande joie, une vive satisfaction.
+%%Quotidien @@ Qui se produit chaque jour, banal.
+%%Anachronique @@ Qui est hors de son époque, dépassé.
+%%Pragmatique @@ Qui privilégie l'efficacité et l'action concrète.
+%%Futile @@ Sans importance, insignifiant.
+%%Diligent @@ Qui agit avec soin et rapidité.
+%%Courageux @@ Qui montre du courage face à un danger ou une difficulté.
+%%Éphémère @@ Qui dure peu de temps, temporaire.
+%%Proactif @@ Qui prend des initiatives, anticipe les problèmes.
+%%Imbécile @@ Le terme imbécile était autrefois utilisé par les psychiatres pour désigner une 
+catégorie de personnes ayant une déficience intellectuelle modérée à sévère, 
+ainsi qu'un type de criminel. Le mot provient du mot latin imbecillus, qui signifie 
+faible ou faible d'esprit.%%Yacht @@ Grand bateau de plaisance. Bateau de riche quoi.
+%%Frivole @@ Qui est léger, peu sérieux.
+%%Eloquent @@ Qui s'exprime avec aisance et force.
+%%Enthousiaste @@ Qui montre un grand intérêt, de l'enthousiasme.
+%%Bénéfique @@ Qui apporte un avantage, un bienfait.
+%%Désinvolte @@ Qui montre une indifférence, un laisser-aller.
+%%Indolent @@ Qui montre peu d'énergie, de volonté.
+%%Résilient @@ Capable de surmonter les épreuves, de rebondir après des difficultés.
+%%Précautionneux @@ Qui fait preuve de prudence, de soin.
+%%Taciturne @@ Qui parle peu, qui reste silencieux.
+%%Zélé @@ Qui montre un dévouement intense dans son travail ou pour une cause.
+%%Stoïque @@ Qui montre une grande force d'âme, indifférent à la douleur.
+%%Nostalgique @@ Qui éprouve une mélancolie liée au passé.
+%%Dévoué @@ Qui se consacre totalement à une cause ou à une personne.
+%%Grégaire @@ Qui vit en groupe, qui aime suivre les autres.
+%%Anodin @@ Qui est sans importance, insignifiant.
+%%Cynique @@ Qui se moque des conventions sociales et morales.
+%%Subversif @@ Qui cherche à renverser l'ordre établi.
+%%Ambivalent @@ Qui a deux aspects ou interprétations contradictoires.
+%%Velléitaire @@ Qui n’a que de faibles intentions changeantes, sans les réaliser.
+%%Érudit @@ Qui a des connaissances approfondies, savant.
+%%Ardent @@ Qui est passionné, intense.
+%%Ubuesque @@ D'un caractère absurde et grotesque.
+%%Excentrique @@ Qui est original, qui sort des normes.
+%%Céleste @@ Relatif au ciel, aux astres ou à ce qui est divin.
+%%Lugubre @@ Qui exprime la tristesse ou l'angoisse, sombre.
+%%Harmonieux @@ Qui est agréable à l'oreille ou à l'œil par un équilibre des formes, des sons.
+%%Prolifique @@ Qui produit beaucoup, en grande quantité.
+%%Métamorphose @@ Transformation complète d'une chose ou d'une personne
+%%Insatiable @@ Qui ne peut pas être satisfait, toujours en demande.
+%%Sénile @@ Qui est marqué par les troubles liés à la vieillesse.
+%%Surréaliste @@ Qui dépasse la réalité, souvent étrange ou illogique.
+%%Rébarbatif @@ Qui est ennuyeux, difficile à comprendre.
+%%Radical @@ Qui est extrême, qui va au fond des choses.
+%%Clément @@ Qui fait preuve de douceur, de tolérance.
+%%Misanthrope @@ Qui n'aime pas la compagnie des autres, qui fuit les gens.
+%%Paradoxal @@ Qui contient une contradiction apparente.
+%%Pugnace @@ Qui aime le combat, la lutte.
+%%Néophyte @@ Personne qui est nouvelle dans une activité ou un domaine.
+%%Scrupuleux @@ Qui est très attentif aux détails, à la morale.
+%%Hédoniste @@ Qui recherche le plaisir comme but de la vie.
+%%Cinétique @@ Relatif au mouvement, à l'énergie liée au mouvement.
+%%Charismatique @@ Qui a du charme, de l'influence sur les autres.
+%%Méticuleux @@ Qui accorde une grande attention aux détails.
+%%Sporadique @@ Qui se produit de temps en temps, irrégulièrement.
+%%Modeste @@ Qui ne cherche pas à se mettre en avant, humble.
+%%Effervescent @@ Qui bouillonne, plein d'excitation ou de vitalité.
+%%Apathique @@ Qui manque d'énergie, de dynamisme.
+%%Tangible @@ Que l’on peut toucher, concret, réel.
+%%Intègre @@ Qui est honnête, droit, incorruptible.
+%%Intransigeant @@ Qui refuse tout compromis, rigide.
+%%Irréversible @@ Qui ne peut pas être annulé ou modifié.
+%%Abyssal @@ Relatif aux grandes profondeurs de l'océan, situées au-delà de 2000 mètres.
+%%Austère @@ Qui est strict, sévère, sans fantaisie.
+%%Idyllique @@ Qui est parfait, idéal.
+%%Magnanime @@ Qui pardonne facilement, généreux.
+%%Xénophile @@ Qui a de la sympathie pour les étrangers ou ce qui vient de l'étranger.
+%%Candide @@ Qui est innocent, naïf, sans méfiance.
+%%Prosaïque @@ Qui manque de poésie, de fantaisie.
+%%Omniscient @@ Qui sait tout, qui a une connaissance universelle.
+%%Impertinent @@ Qui montre un manque de respect, insolent.
+%%Retors @@ Qui est rusé, capable de tromper avec habileté.
