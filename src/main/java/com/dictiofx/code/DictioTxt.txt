@@ -1,274 +1,271 @@
-omniprésent @@ Qui est présent partout à la fois.
+effervescent @@ Qui bouillonne, plein d'excitation ou de vitalité.
+%%éxutoire @@ Moyen de se débarrasser d’un surplus d’émotions ou de pensées.
 %%étudier @@ consacrer du temps à l'apprentissage.
-%%désabusé @@ Qui a perdu ses illusions, déçu par la vie.
-%%jubilatoire @@ Qui provoque une grande joie, une vive satisfaction.
 %%copain @@ ami ou camarade.
 %%abdos @@ muscles de l'abdomen, souvent sollicités lors des exercices.
-%%futile @@ Sans importance, insignifiant.
+%%hérésie @@ Opinion qui s'oppose aux idées généralement admises.
+%%résilient @@ Capable de surmonter les épreuves, de rebondir après des difficultés.
 %%établir @@ fonder ou créer quelque chose de durable.
-%%verbeux @@ Qui parle beaucoup, de manière inutilement longue.
 %%assurer @@ garantir ou rendre certain.
 %%développer @@ faire croître ou avancer.
-%%altruisme @@ Disposition à s’intéresser et à se dévouer à autrui.
-%%eloquent @@ Qui s'exprime avec aisance et force.
+%%inné @@ Qui est présent dès la naissance, sans apprentissage préalable.
 %%attendre @@ rester en un lieu en prévision d'un événement.
-%%désinvolte @@ Qui montre une indifférence, un laisser-aller.
-%%dichotomie @@ Division de quelque chose en deux éléments opposés.
+%%impondérable @@ Élément imprévisible ayant une influence importante.
+%%métamorphose @@ Transformation complète d'une chose ou d'une personne
+%%sporadique @@ Qui se produit de temps en temps, irrégulièrement.
+%%austère @@ Qui est strict, sévère, sans fantaisie.
 %%environnement @@ tout ce qui entoure un organisme.
+%%pragmatique @@ Qui privilégie l’efficacité pratique plutôt que la théorie.
+%%rhétorique @@ Art de bien parler, de persuader par le discours.
+%%tautologie @@ Répétition inutile d’une idée dans une même phrase.
 %%calculer @@ déterminer par des opérations mathématiques.
-%%taciturne @@ Qui parle peu, qui est d'humeur morose.
-%%zélé @@ Qui montre un dévouement intense dans son travail ou pour une cause.
-%%empathie @@ capacité de comprendre et de partager les sentiments d'autrui.
-%%néologisme @@ Mot nouveau ou sens nouveau d’un mot existant.
-%%hypothèse @@ Proposition de départ d’une recherche scientifique à vérifier.
-%%ambivalent @@ Qui a deux aspects ou interprétations contradictoires.
+%%empathie @@ Capacité à se mettre à la place de l’autre et à comprendre ses émotions.
+%%aphorisme @@ Courte phrase résumant une pensée morale ou philosophique.
+%%céleste @@ Relatif au ciel, aux astres ou à ce qui est divin.
+%%zigzag @@ Ligne brisée formant des angles alternativement aigus et obtus.
+%%idyllique @@ Qui est parfait, idéal.
 %%émerger @@ sortir de l'eau ou d'un autre milieu.
-%%velléitaire @@ Qui n’a que de faibles intentions changeantes, sans les réaliser.
+%%hédonisme @@ Doctrine qui fait du plaisir le but de la vie.
+%%précaire @@ Qui n'est pas stable, incertain.
+%%érudit @@ Qui a des connaissances approfondies, savant.
 %%entendre @@ percevoir des sons.
+%%xénophile @@ Qui a de la sympathie pour les étrangers ou ce qui vient de l'étranger.
+%%diligent @@ Qui agit avec soin et rapidité.
+%%ardent @@ Qui est passionné, intense.
+%%ironie @@ Manière de se moquer en disant le contraire de ce que l’on pense.
 %%besoin @@ nécessité ou exigence de quelque chose.
 %%aujourd'hui @@ ce jour-ci; le jour actuel.
-%%dogme @@ Principe incontestable d'une doctrine ou d'une religion.
-%%énigme @@ Problème difficile à résoudre, souvent exprimé en termes ambigus.
 %%arriver @@ atteindre un lieu ou un état.
-%%syncrétisme @@ Fusion de différentes doctrines ou croyances.
-%%oxymore @@ Association de deux termes opposés dans une même expression.
+%%médiation @@ Intervention pour rétablir la communication entre des parties en conflit.
 %%accident @@ événement inattendu causant des dommages ou des blessures.
-%%pugnace @@ Qui aime le combat, la lutte.
-%%laconique @@ Qui s'exprime en peu de mots.
-%%scrupuleux @@ Qui est très attentif aux détails, à la morale.
+%%eloquent @@ Qui s'exprime avec aisance et force.
+%%chimère @@ Idée ou projet illusoire.
+%%péjoratif @@ Qui exprime une idée défavorable.
+%%indolent @@ Qui montre peu d'énergie, de volonté.
+%%sang-froid @@ Calme, maîtrise de soi dans des situations difficiles.
+%%omnipotent @@ Qui est tout-puissant, qui peut tout faire.
 %%différent @@ distinct ou unique par rapport à quelque chose d'autre.
-%%méticuleux @@ Qui accorde une grande attention aux détails.
-%%étonner @@ surprendre ou émerveiller.
-%%entière @@ complète; totale.
-%%utopie @@ Idéal irréalisable, projet imaginaire.
-%%effervescent @@ Qui bouillonne, plein d'excitation ou de vitalité.
-%%élargir @@ rendre quelque chose plus grand ou plus vaste.
-%%hiatus @@ Interruption dans un discours ou une action continue.
-%%inné @@ Qui est présent dès la naissance, sans apprentissage préalable.
-%%art @@ une forme d'expression créative, souvent visuelle.
-%%carrière @@ parcours professionnel ou voie de développement.
-%%apathique @@ Qui manque d'énergie, de dynamisme.
-%%déontologie @@ Ensemble des règles et des devoirs professionnels.
-%%pléthore @@ Abondance excessive de quelque chose.
-%%clairvoyance @@ Faculté de voir avec lucidité les situations.
 %%abyssal @@ Relatif aux grandes profondeurs de l'océan, situées au-delà de 2000 mètres.
-%%demander @@ poser une question ou solliciter quelque chose.
-%%impondérable @@ Élément imprévisible ayant une influence importante.
-%%chaque @@ désignant tous les membres d'un groupe individuellement.
-%%solipsisme @@ Doctrine philosophique selon laquelle il n'y a de réalité que celle de la conscience individuelle.
-%%attirer @@ susciter l'intérêt ou l'attention de quelqu'un.
-%%approfondir @@ aller plus en détail ou plus loin dans un sujet.
-%%chaleur @@ énergie thermique; sensation de chaleur.
-%%essayer @@ tenter de faire quelque chose.
-%%découvrir @@ trouver quelque chose de nouveau.
-%%précaire @@ Qui n'est pas stable, incertain.
-%%courageux @@ Qui montre du courage face à un danger ou une difficulté.
-%%xénophobie @@ Hostilité envers les étrangers ou ce qui est étranger.
-%%nostalgie @@ Regret mélancolique d'un temps passé.
-%%enregistrer @@ consigner ou documenter des informations.
 %%imbécile @@ Le terme imbécile était autrefois utilisé par les psychiatres pour désigner une 
 catégorie de personnes ayant une déficience intellectuelle modérée à sévère, 
 ainsi qu'un type de criminel. Le mot provient du mot latin imbecillus, qui signifie 
-faible ou faible d'esprit.%%aphorisme @@ Courte phrase résumant une pensée morale ou philosophique.
-%%éthique @@ Ensemble des principes moraux qui guident les actions d’un individu.
-%%enthousiaste @@ Qui montre un grand intérêt, de l'enthousiasme.
-%%zizanie @@ Désaccord, discorde semée volontairement dans un groupe.
-%%indolent @@ Qui montre peu d'énergie, de volonté.
+faible ou faible d'esprit.%%étonner @@ surprendre ou émerveiller.
+%%paradoxal @@ Qui contient une contradiction apparente.
+%%entière @@ complète; totale.
+%%élargir @@ rendre quelque chose plus grand ou plus vaste.
+%%dogme @@ Principe incontestable d'une doctrine ou d'une religion.
+%%art @@ une forme d'expression créative, souvent visuelle.
+%%carrière @@ parcours professionnel ou voie de développement.
 %%dialectique @@ Art de raisonner et de convaincre par le dialogue.
+%%intransigeant @@ Qui refuse tout compromis, rigide.
+%%dissonance @@ Désaccord entre les éléments d'un ensemble.
+%%demander @@ poser une question ou solliciter quelque chose.
+%%procrastination @@ Tendance à remettre au lendemain ce que l’on peut faire aujourd’hui.
+%%oxymore @@ Association de deux termes opposés dans une même expression.
+%%pléthore @@ Abondance excessive de quelque chose.
+%%yacht @@ Grand bateau de plaisance. Bateau de riche quoi.
+%%chaque @@ désignant tous les membres d'un groupe individuellement.
+%%misanthrope @@ Qui n'aime pas la compagnie des autres, qui fuit les gens.
+%%attirer @@ susciter l'intérêt ou l'attention de quelqu'un.
+%%clairvoyance @@ Faculté de voir avec lucidité les situations.
+%%approfondir @@ aller plus en détail ou plus loin dans un sujet.
+%%chaleur @@ énergie thermique; sensation de chaleur.
+%%omniprésent @@ Qui est présent partout à la fois.
+%%zizanie @@ Désaccord, discorde semée volontairement dans un groupe.
+%%essayer @@ tenter de faire quelque chose.
+%%modeste @@ Qui ne cherche pas à se mettre en avant, humble.
+%%découvrir @@ trouver quelque chose de nouveau.
+%%hypothèse @@ Proposition de départ d’une recherche scientifique à vérifier.
+%%énigme @@ Problème difficile à résoudre, souvent exprimé en termes ambigus.
+%%postulat @@ Proposition non démontrée que l’on admet comme base de raisonnement.
+%%colloque @@ Réunion de spécialistes discutant d’un sujet précis.
+%%néophyte @@ Personne qui est nouvelle dans une activité ou un domaine.
+%%magnanime @@ Qui pardonne facilement, généreux.
+%%enregistrer @@ consigner ou documenter des informations.
+%%charismatique @@ Qui a du charme, de l'influence sur les autres.
+%%éloquence @@ Art de bien parler, de convaincre par le discours.
+%%théorème @@ Proposition démontrée à partir de postulats ou d'axiomes.
+%%lucide @@ Qui voit les choses telles qu'elles sont, sans illusions.
 %%caractère @@ traits distinctifs d'une personne ou d'une chose.
-%%inéluctable @@ Qui ne peut être évité, inévitable.
 %%conversation @@ échange de mots entre deux ou plusieurs personnes.
-%%stoïcisme @@ Doctrine philosophique prônant l’acceptation de son destin sans se laisser troubler par les émotions.
-%%nostalgique @@ Qui éprouve une mélancolie liée au passé.
-%%quintessence @@ Ce qu’il y a de meilleur et de plus pur dans quelque chose.
+%%verbeux @@ Qui parle beaucoup, de manière inutilement longue.
+%%clément @@ Qui fait preuve de douceur, de tolérance.
 %%expliquer @@ rendre quelque chose compréhensible.
 %%aboyer @@ émettre un cri ou un son, généralement un chien.
+%%zénith @@ Point le plus haut dans le ciel atteint par un astre.
+%%harmonieux @@ Qui est agréable à l'oreille ou à l'œil par un équilibre des formes, des sons.
 %%anodin @@ Qui est sans importance, insignifiant.
-%%cynique @@ Qui se moque des conventions sociales et morales.
-%%sardonique @@ Moquerie amère et cynique.
-%%empathie @@ Capacité à se mettre à la place de l’autre et à comprendre ses émotions.
 %%analyser @@ examiner en détail pour comprendre ou interpréter.
-%%épistémologie @@ Étude critique des sciences, de leurs méthodes et de leurs fondements.
-%%ardent @@ Qui est passionné, intense.
-%%excentrique @@ Qui est original, qui sort des normes.
-%%hérésie @@ Opinion qui s'oppose aux idées généralement admises.
-%%prolifique @@ Qui produit beaucoup, en grande quantité.
-%%métempsycose @@ Croyance en la réincarnation de l'âme dans un autre corps.
+%%énigmatique @@ Qui est difficile à comprendre, mystérieux.
+%%antinomie @@ Contradiction réelle ou apparente entre deux lois, deux principes.
+%%syllogisme @@ Raisonnement logique déductif à partir de deux propositions.
 %%camarade @@ un ami ou un compagnon.
-%%métamorphose @@ Transformation complète d'une chose ou d'une personne
-%%insatiable @@ Qui ne peut pas être satisfait, toujours en demande.
-%%évanescent @@ Qui disparaît peu à peu, insaisissable.
+%%enthousiaste @@ Qui montre un grand intérêt, de l'enthousiasme.
 %%atmosphère @@ la couche d'air entourant la Terre.
-%%postulat @@ Proposition non démontrée que l’on admet comme base de raisonnement.
-%%sénile @@ Qui est marqué par les troubles liés à la vieillesse.
-%%surréaliste @@ Qui dépasse la réalité, souvent étrange ou illogique.
+%%syncrétisme @@ Fusion de différentes doctrines ou croyances.
+%%laconique @@ Qui s'exprime en peu de mots.
 %%changer @@ rendre différent; modifier quelque chose.
-%%rébarbatif @@ Qui est ennuyeux, difficile à comprendre.
-%%radical @@ Qui est extrême, qui va au fond des choses.
-%%colloque @@ Réunion de spécialistes discutant d’un sujet précis.
-%%prélude @@ Introduction à une œuvre ou à un événement.
-%%hédoniste @@ Qui recherche le plaisir comme but de la vie.
-%%prophylaxie @@ Ensemble de mesures pour prévenir les maladies.
+%%frivole @@ Qui est léger, peu sérieux.
+%%zygomatique @@ Muscle responsable du sourire.
+%%métempsycose @@ Croyance en la réincarnation de l'âme dans un autre corps.
+%%lugubre @@ Qui exprime la tristesse ou l'angoisse, sombre.
 %%adulte @@ une personne ayant atteint l'âge de la maturité.
-%%émulation @@ Sentiment qui pousse à égaler ou surpasser quelqu'un dans un domaine.
-%%frugalité @@ Mode de vie marqué par la modération dans les biens matériels.
+%%vicissitude @@ Succession d'événements, souvent imprévus ou défavorables.
 %%client @@ une personne qui utilise les services d'une entreprise.
+%%éphémère @@ Qui ne dure qu’un court moment.
+%%catharsis @@ Purification des passions par l'art ou la tragédie.
 %%blanc @@ couleur claire, souvent associée à la pureté.
 %%blesser @@ causer une douleur ou une blessure.
-%%éclectisme @@ Fait de choisir des éléments divers dans plusieurs doctrines.
-%%lucide @@ Qui voit les choses telles qu'elles sont, sans illusions.
 %%capacité @@ la quantité maximale que quelque chose peut contenir.
-%%idiosyncrasie @@ Manière de réagir propre à un individu ou à un groupe.
-%%prosodie @@ Étude des règles relatives à la versification et à la prononciation.
+%%létal @@ Qui provoque la mort.
+%%exubérance @@ Expression excessive de joie, de vitalité.
 %%encourager @@ donner du soutien ou de l'assurance.
-%%médiation @@ Intervention pour rétablir la communication entre des parties en conflit.
-%%omniscience @@ Connaissance absolue de toutes choses.
-%%transcendant @@ Qui dépasse les limites de l’expérience ordinaire.
+%%retors @@ Qui est rusé, capable de tromper avec habileté.
 %%articulaire @@ relatif aux articulations ou à leur mouvement.
-%%tangible @@ Que l’on peut toucher, concret, réel.
-%%intransigeant @@ Qui refuse tout compromis, rigide.
 %%discuter @@ parler ensemble d'un sujet particulier.
-%%tautologie @@ Répétition inutile d’une idée dans une même phrase.
+%%prosodie @@ Étude des règles relatives à la versification et à la prononciation.
+%%tangible @@ Que l’on peut toucher, concret, réel.
+%%vacuité @@ Vide, absence de contenu.
 %%écouter @@ prêter attention à des sons ou à des paroles.
 %%accompagner @@ aller ou être avec quelqu'un.
-%%xénophile @@ Qui a de la sympathie pour les étrangers ou ce qui vient de l'étranger.
-%%prosaïque @@ Qui manque de poésie, de fantaisie.
-%%bénévolat @@ Activité non rémunérée au service d’autrui.
-%%létal @@ Qui provoque la mort.
 %%éviction @@ Action d’exclure quelqu’un d’un groupe ou d’un lieu.
-%%impertinent @@ Qui montre un manque de respect, insolent.
 %%choix @@ l'acte de décider ou de sélectionner quelque chose.
 %%ajuster @@ modifier légèrement pour qu'il convienne mieux.
 %%ancien @@ qui a existé dans le passé; vieux.
+%%transcendant @@ Qui dépasse les limites de l’expérience ordinaire.
 %%compte @@ un rapport ou un récit d'événements.
 %%danser @@ exécuter un mouvement rythmique du corps.
-%%superfétatoire @@ Qui est superflu, qui n’apporte rien de plus.
-%%quotidien @@ Qui se produit chaque jour, banal.
+%%scrupuleux @@ Qui est très attentif aux détails, à la morale.
 %%écrire @@ former des mots sur une surface avec un outil.
-%%cacophonie @@ Mélange de sons discordants.
-%%vacuité @@ Vide, absence de contenu.
 %%construire @@ ériger ou assembler quelque chose.
-%%ironie @@ Manière de se moquer en disant le contraire de ce que l’on pense.
+%%paronyme @@ Mots ayant des formes proches mais des sens différents.
 %%apprendre @@ acquérir des connaissances ou des compétences par l'étude ou l'expérience.
+%%sénile @@ Qui est marqué par les troubles liés à la vieillesse.
 %%approcher @@ se rapprocher de quelqu'un ou de quelque chose.
-%%éphémère @@ Qui ne dure qu’un court moment.
-%%paradoxe @@ Affirmation qui contredit l’opinion commune.
-%%procrastination @@ Tendance à remettre au lendemain ce que l’on peut faire aujourd’hui.
-%%proactif @@ Qui prend des initiatives, anticipe les problèmes.
+%%évanescent @@ Qui disparaît peu à peu, insaisissable.
+%%holisme @@ Conception selon laquelle le tout est plus que la somme de ses parties.
 %%comprendre @@ saisir le sens ou la signification de quelque chose.
-%%frivole @@ Qui est léger, peu sérieux.
-%%intrinsèque @@ Qui appartient à l'essence même de quelque chose.
-%%bénéfique @@ Qui apporte un avantage, un bienfait.
-%%émancipation @@ Action de se libérer d'une autorité, d'une contrainte.
+%%bénévolat @@ Activité non rémunérée au service d’autrui.
 %%action @@ un acte ou un processus de faire quelque chose.
-%%précautionneux @@ Qui fait preuve de prudence, de soin.
-%%ubiquité @@ Fait d’être présent en plusieurs lieux à la fois.
+%%courageux @@ Qui montre du courage face à un danger ou une difficulté.
 %%contagieux @@ pouvant se transmettre d'une personne à une autre.
+%%ambivalent @@ Qui a deux aspects ou interprétations contradictoires.
+%%éclectisme @@ Fait de choisir des éléments divers dans plusieurs doctrines.
 %%espace @@ une étendue de distance ou un vide.
-%%ontologie @@ Branche de la philosophie qui étudie l'être en tant qu'être.
-%%zénith @@ Point le plus haut dans le ciel atteint par un astre.
+%%inéluctable @@ Qui ne peut être évité, inévitable.
 %%actuel @@ qui est en cours ou qui se produit en ce moment.
-%%dévoué @@ Qui se consacre totalement à une cause ou à une personne.
+%%impertinent @@ Qui montre un manque de respect, insolent.
+%%superfétatoire @@ Qui est superflu, qui n’apporte rien de plus.
+%%évolution @@ Transformation progressive, développement continu.
 %%décider @@ choisir une voie ou un cours d'action.
 %%créer @@ produire ou engendrer quelque chose.
+%%prolifique @@ Qui produit beaucoup, en grande quantité.
 %%assister @@ participer à un événement ou à une activité.
-%%subversif @@ Qui cherche à renverser l’ordre établi.
-%%érudit @@ Qui a des connaissances approfondies, savant.
+%%quintessence @@ Ce qu’il y a de meilleur et de plus pur dans quelque chose.
+%%apathique @@ Qui manque d'énergie, de dynamisme.
+%%grégaire @@ Qui vit en groupe, qui aime suivre les autres.
+%%épistémologie @@ Étude critique des sciences, de leurs méthodes et de leurs fondements.
 %%cultiver @@ faire croître des plantes ou des cultures.
 %%explorer @@ examiner ou chercher des informations.
-%%céleste @@ Relatif au ciel, aux astres ou à ce qui est divin.
-%%érudition @@ Savoir approfondi dans un domaine.
-%%réminiscence @@ Souvenir vague, lointain, souvent incomplet.
-%%abandonner @@ laisser quelque chose derrière soi ou renoncer.
-%%antinomie @@ Contradiction réelle ou apparente entre deux lois, deux principes.
-%%cacher @@ dissimuler quelque chose.
-%%euphémisme @@ Atténuation d'une expression jugée trop crue ou choquante.
-%%catharsis @@ Purification des passions par l'art ou la tragédie.
-%%aléatoire @@ qui se produit par hasard, sans ordre prévisible.
-%%clément @@ Qui fait preuve de douceur, de tolérance.
-%%paradoxal @@ Qui contient une contradiction apparente.
-%%aura @@ une qualité distinctive perçue autour d'une personne ou d'une chose.
-%%mythe @@ Récit symbolique expliquant des phénomènes ou des croyances.
-%%néophyte @@ Personne qui est nouvelle dans une activité ou un domaine.
-%%admirer @@ éprouver de l'admiration pour quelque chose ou quelqu'un.
-%%dormir @@ être dans un état de sommeil.
-%%sporadique @@ Qui se produit de temps en temps, irrégulièrement.
-%%métaphore @@ Figure de style consistant à désigner une chose par une autre qui lui ressemble.
-%%appliquer @@ mettre en pratique ou en œuvre une idée ou une méthode.
-%%théorème @@ Proposition démontrée à partir de postulats ou d'axiomes.
-%%scepticisme @@ Attitude de doute, refus d’admettre une vérité sans preuves suffisantes.
-%%aider @@ apporter une assistance à quelqu'un.
-%%briller @@ émettre de la lumière; être éclatant.
-%%sang-froid @@ Calme, maîtrise de soi dans des situations difficiles.
-%%intègre @@ Qui est honnête, droit, incorruptible.
-%%irréversible @@ Qui ne peut pas être annulé ou modifié.
-%%accroître @@ augmenter ou rendre quelque chose plus important.
-%%magnanime @@ Qui pardonne facilement, généreux.
-%%candide @@ Qui est innocent, naïf, sans méfiance.
-%%expérience @@ connaissance acquise par la pratique.
-%%omniscient @@ Qui sait tout, qui a une connaissance universelle.
-%%boire @@ ingérer un liquide.
-%%retors @@ Qui est rusé, capable de tromper avec habileté.
-%%dissonance @@ Désaccord entre les éléments d'un ensemble.
-%%captiver @@ attirer l'intérêt ou l'attention de manière intense.
-%%omnipotent @@ Qui est tout-puissant, qui peut tout faire.
-%%argument @@ une raison donnée pour soutenir une opinion.
-%%ajouter @@ inclure ou insérer quelque chose en plus.
+%%prélude @@ Introduction à une œuvre ou à un événement.
 %%anachronique @@ Qui est hors de son époque, dépassé.
-%%pragmatique @@ Qui privilégie l’efficacité pratique plutôt que la théorie.
-%%diligent @@ Qui agit avec soin et rapidité.
-%%hédonisme @@ Doctrine qui fait du plaisir le but de la vie.
-%%yacht @@ Grand bateau de plaisance. Bateau de riche quoi.
-%%évolution @@ Transformation progressive, développement continu.
-%%abstrait @@ qui n'existe que dans la pensée, sans représentation concrète.
-%%beau @@ agréable à l'œil; esthétique.
-%%résilient @@ Capable de surmonter les épreuves, de rebondir après des difficultés.
+%%éthique @@ Ensemble des principes moraux qui guident les actions d’un individu.
+%%abandonner @@ laisser quelque chose derrière soi ou renoncer.
+%%précautionneux @@ Qui fait preuve de prudence, de soin.
+%%irréversible @@ Qui ne peut pas être annulé ou modifié.
+%%émancipation @@ Action de se libérer d'une autorité, d'une contrainte.
+%%cacher @@ dissimuler quelque chose.
+%%cinétique @@ Relatif au mouvement, à l'énergie liée au mouvement.
+%%désinvolte @@ Qui montre une indifférence, un laisser-aller.
+%%futile @@ Sans importance, insignifiant.
+%%métaphore @@ Figure de style consistant à désigner une chose par une autre qui lui ressemble.
 %%stoïque @@ Qui montre une grande force d'âme, indifférent à la douleur.
-%%axiome @@ Proposition considérée comme évidente, sans démonstration.
-%%péjoratif @@ Qui exprime une idée défavorable.
+%%aléatoire @@ qui se produit par hasard, sans ordre prévisible.
+%%aura @@ une qualité distinctive perçue autour d'une personne ou d'une chose.
+%%stoïcisme @@ Doctrine philosophique prônant l’acceptation de son destin sans se laisser troubler par les émotions.
+%%admirer @@ éprouver de l'admiration pour quelque chose ou quelqu'un.
+%%paradoxe @@ Affirmation qui contredit l’opinion commune.
+%%ontologie @@ Branche de la philosophie qui étudie l'être en tant qu'être.
+%%dichotomie @@ Division de quelque chose en deux éléments opposés.
+%%dormir @@ être dans un état de sommeil.
+%%candide @@ Qui est innocent, naïf, sans méfiance.
+%%proactif @@ Qui prend des initiatives, anticipe les problèmes.
+%%appliquer @@ mettre en pratique ou en œuvre une idée ou une méthode.
+%%idiosyncrasie @@ Manière de réagir propre à un individu ou à un groupe.
+%%aider @@ apporter une assistance à quelqu'un.
+%%excentrique @@ Qui est original, qui sort des normes.
+%%briller @@ émettre de la lumière; être éclatant.
+%%solipsisme @@ Doctrine philosophique selon laquelle il n'y a de réalité que celle de la conscience individuelle.
+%%frugalité @@ Mode de vie marqué par la modération dans les biens matériels.
+%%bénéfique @@ Qui apporte un avantage, un bienfait.
+%%subversif @@ Qui cherche à renverser l’ordre établi.
+%%pugnace @@ Qui aime le combat, la lutte.
+%%velléitaire @@ Qui n’a que de faibles intentions changeantes, sans les réaliser.
+%%hédoniste @@ Qui recherche le plaisir comme but de la vie.
+%%accroître @@ augmenter ou rendre quelque chose plus important.
+%%érudition @@ Savoir approfondi dans un domaine.
+%%expérience @@ connaissance acquise par la pratique.
+%%condescendance @@ Attitude de supériorité bienveillante.
+%%nostalgique @@ Qui éprouve une mélancolie liée au passé.
+%%boire @@ ingérer un liquide.
+%%mythe @@ Récit symbolique expliquant des phénomènes ou des croyances.
+%%captiver @@ attirer l'intérêt ou l'attention de manière intense.
+%%réminiscence @@ Souvenir vague, lointain, souvent incomplet.
+%%argument @@ une raison donnée pour soutenir une opinion.
+%%intrinsèque @@ Qui appartient à l'essence même de quelque chose.
+%%ajouter @@ inclure ou insérer quelque chose en plus.%%altruisme @@ Disposition à s’intéresser et à se dévouer à autrui.
+%%omniscient @@ Qui sait tout, qui a une connaissance universelle.
+%%méticuleux @@ Qui accorde une grande attention aux détails.
+%%insatiable @@ Qui ne peut pas être satisfait, toujours en demande.
+%%intègre @@ Qui est honnête, droit, incorruptible.
+%%néologisme @@ Mot nouveau ou sens nouveau d’un mot existant.
+%%jubilatoire @@ Qui provoque une grande joie, une vive satisfaction.
+%%abstrait @@ Qui n'a pas d'existence matérielle, difficile à saisir.
+%%euphémisme @@ Atténuation d'une expression jugée trop crue ou choquante.
+%%beau @@ agréable à l'œil; esthétique.
+%%zèle @@ Ardeur à servir une cause ou à accomplir une tâche.
+%%émulation @@ Sentiment qui pousse à égaler ou surpasser quelqu'un dans un domaine.
+%%prosaïque @@ Qui manque de poésie, de fantaisie.
 %%ciel @@ espace au-dessus de la Terre; atmosphère.
-%%chimère @@ Idée ou projet illusoire.
-%%zigzag @@ Ligne brisée formant des angles alternativement aigus et obtus.
-%%rhétorique @@ Art de bien parler, de persuader par le discours.
-%%grégaire @@ Qui vit en groupe, qui aime suivre les autres.
-%%holisme @@ Conception selon laquelle le tout est plus que la somme de ses parties.
-%%syllogisme @@ Raisonnement logique déductif à partir de deux propositions.
+%%axiome @@ Proposition considérée comme évidente, sans démonstration.
+%%omniscience @@ Connaissance absolue de toutes choses.
 %%corps @@ ensemble de l'organisme physique.
-%%vertu @@ Disposition à faire le bien, à agir avec moralité.
+%%cynique @@ Qui se moque des conventions sociales et morales.
 %%choisir @@ sélectionner ou opter pour quelque chose.
 %%croyance @@ conviction ou foi en quelque chose.
-%%délirer @@ parler ou agir de manière irrationnelle ou sans cohérence.
 %%ubuesque @@ D'un caractère absurde et grotesque.
+%%cacophonie @@ Mélange de sons discordants.
+%%quotidien @@ Qui se produit chaque jour, banal.
+%%délirer @@ parler ou agir de manière irrationnelle ou sans cohérence.
 %%battre @@ frapper quelque chose ou quelqu'un avec force.
 %%accepter @@ recevoir quelque chose avec plaisir ou acquiescer à.
-%%lugubre @@ Qui exprime la tristesse ou l'angoisse, sombre.
-%%harmonieux @@ Qui est agréable à l'oreille ou à l'œil par un équilibre des formes, des sons.
+%%dévoué @@ Qui se consacre totalement à une cause ou à une personne.
+%%désabusé @@ Qui a perdu ses illusions, déçu par la vie.
+%%scepticisme @@ Attitude de doute, refus d’admettre une vérité sans preuves suffisantes.
 %%défendre @@ protéger ou soutenir quelque chose.
 %%bon @@ de bonne qualité ou satisfaisant.
 %%clarté @@ qualité d'être clair ou facilement compréhensible.
-%%vénal @@ Qui se laisse corrompre, qui agit par intérêt financier.
-%%paronyme @@ Mots ayant des formes proches mais des sens différents.
 %%couleur @@ qualité visuelle déterminée par la lumière.
-%%misanthrope @@ Qui n'aime pas la compagnie des autres, qui fuit les gens.
-%%éxutoire @@ Moyen de se débarrasser d’un surplus d’émotions ou de pensées.
+%%vertu @@ Disposition à faire le bien, à agir avec moralité.
+%%surréaliste @@ Qui dépasse la réalité, souvent étrange ou illogique.
+%%xénophobie @@ Hostilité envers les étrangers ou ce qui est étranger.
 %%diplôme @@ certificat délivré par une institution d'enseignement.
-%%cinétique @@ Relatif au mouvement, à l'énergie liée au mouvement.
-%%charismatique @@ Qui a du charme, de l'influence sur les autres.
-%%abstrait @@ Qui n'a pas d'existence matérielle, difficile à saisir.
-%%zygomatique @@ Muscle responsable du sourire.
+%%zélé @@ Qui montre un dévouement intense dans son travail ou pour une cause.
+%%ubiquité @@ Fait d’être présent en plusieurs lieux à la fois.
 %%définir @@ établir le sens ou les limites de quelque chose.
 %%contrôle @@ pouvoir de diriger ou de réguler.
-%%modeste @@ Qui ne cherche pas à se mettre en avant, humble.
-%%condescendance @@ Attitude de supériorité bienveillante.
-%%vicissitude @@ Succession d'événements, souvent imprévus ou défavorables.
+%%déontologie @@ Ensemble des règles et des devoirs professionnels.
+%%sardonique @@ Moquerie amère et cynique.
+%%prophylaxie @@ Ensemble de mesures pour prévenir les maladies.
 %%direction @@ chemin ou orientation vers un objectif.
-%%exubérance @@ Expression excessive de joie, de vitalité.
+%%utopie @@ Idéal irréalisable, projet imaginaire.
+%%nostalgie @@ Regret mélancolique d'un temps passé.
+%%radical @@ Qui est extrême, qui va au fond des choses.
 %%clair @@ facilement perceptible; lumineux.
-%%zèle @@ Ardeur à servir une cause ou à accomplir une tâche.
 %%améliorer @@ rendre quelque chose meilleur ou de meilleure qualité.
-%%austère @@ Qui est strict, sévère, sans fantaisie.
-%%idyllique @@ Qui est parfait, idéal.
+%%vénal @@ Qui se laisse corrompre, qui agit par intérêt financier.
+%%taciturne @@ Qui parle peu, qui est d'humeur morose.
 %%campagne @@ région rurale ou lieu éloigné de la ville.
-%%éloquence @@ Art de bien parler, de convaincre par le discours.
 %%élever @@ amener quelque chose à un niveau supérieur.
-%%énigmatique @@ Qui est difficile à comprendre, mystérieux.
+%%rébarbatif @@ Qui est ennuyeux, difficile à comprendre.
+%%hiatus @@ Interruption dans un discours ou une action continue.
