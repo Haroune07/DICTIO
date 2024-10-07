@@ -75,3 +75,101 @@ faible ou faible d'esprit.%%Yacht @@ Grand bateau de plaisance. Bateau de riche 
 %%Omniscient @@ Qui sait tout, qui a une connaissance universelle.
 %%Impertinent @@ Qui montre un manque de respect, insolent.
 %%Retors @@ Qui est rusé, capable de tromper avec habileté.
+%%Abstrait @@ Qui n'a pas d'existence matérielle, difficile à saisir.
+%%Altruisme @@ Disposition à s’intéresser et à se dévouer à autrui.
+%%Aphorisme @@ Courte phrase résumant une pensée morale ou philosophique.
+%%Antinomie @@ Contradiction réelle ou apparente entre deux lois, deux principes.
+%%Axiome @@ Proposition considérée comme évidente, sans démonstration.
+%%Bénévolat @@ Activité non rémunérée au service d’autrui.
+%%Cacophonie @@ Mélange de sons discordants.
+%%Catharsis @@ Purification des passions par l'art ou la tragédie.
+%%Chimère @@ Idée ou projet illusoire.
+%%Clairvoyance @@ Faculté de voir avec lucidité les situations.
+%%Colloque @@ Réunion de spécialistes discutant d’un sujet précis.
+%%Condescendance @@ Attitude de supériorité bienveillante.
+%%Déontologie @@ Ensemble des règles et des devoirs professionnels.
+%%Dialectique @@ Art de raisonner et de convaincre par le dialogue.
+%%Dichotomie @@ Division de quelque chose en deux éléments opposés.
+%%Dissonance @@ Désaccord entre les éléments d'un ensemble.
+%%Dogme @@ Principe incontestable d'une doctrine ou d'une religion.
+%%Éclectisme @@ Fait de choisir des éléments divers dans plusieurs doctrines.
+%%Éloquence @@ Art de bien parler, de convaincre par le discours.
+%%Empathie @@ Capacité à se mettre à la place de l’autre et à comprendre ses émotions.
+%%Énigme @@ Problème difficile à résoudre, souvent exprimé en termes ambigus.
+%%Épistémologie @@ Étude critique des sciences, de leurs méthodes et de leurs fondements.
+%%Éthique @@ Ensemble des principes moraux qui guident les actions d’un individu.
+%%Euphémisme @@ Atténuation d'une expression jugée trop crue ou choquante.
+%%Exubérance @@ Expression excessive de joie, de vitalité.
+%%Frugalité @@ Mode de vie marqué par la modération dans les biens matériels.
+%%Hédonisme @@ Doctrine qui fait du plaisir le but de la vie.
+%%Hérésie @@ Opinion qui s'oppose aux idées généralement admises.
+%%Hiatus @@ Interruption dans un discours ou une action continue.
+%%Holisme @@ Conception selon laquelle le tout est plus que la somme de ses parties.
+%%Hypothèse @@ Proposition de départ d’une recherche scientifique à vérifier.
+%%Idiosyncrasie @@ Manière de réagir propre à un individu ou à un groupe.
+%%Impondérable @@ Élément imprévisible ayant une influence importante.
+%%Inéluctable @@ Qui ne peut être évité, inévitable.
+%%Inné @@ Qui est présent dès la naissance, sans apprentissage préalable.
+%%Intrinsèque @@ Qui appartient à l'essence même de quelque chose.
+%%Ironie @@ Manière de se moquer en disant le contraire de ce que l’on pense.
+%%Laconique @@ Qui s'exprime en peu de mots.
+%%Létal @@ Qui provoque la mort.
+%%Lucide @@ Qui voit les choses telles qu'elles sont, sans illusions.
+%%Médiation @@ Intervention pour rétablir la communication entre des parties en conflit.
+%%Métempsycose @@ Croyance en la réincarnation de l'âme dans un autre corps.
+%%Métaphore @@ Figure de style consistant à désigner une chose par une autre qui lui ressemble.
+%%Mythe @@ Récit symbolique expliquant des phénomènes ou des croyances.
+%%Néologisme @@ Mot nouveau ou sens nouveau d’un mot existant.
+%%Nostalgie @@ Regret mélancolique d'un temps passé.
+%%Omniscience @@ Connaissance absolue de toutes choses.
+%%Ontologie @@ Branche de la philosophie qui étudie l'être en tant qu'être.
+%%Oxymore @@ Association de deux termes opposés dans une même expression.
+%%Paradoxe @@ Affirmation qui contredit l’opinion commune.
+%%Paronyme @@ Mots ayant des formes proches mais des sens différents.
+%%Péjoratif @@ Qui exprime une idée défavorable.
+%%Pléthore @@ Abondance excessive de quelque chose.
+%%Postulat @@ Proposition non démontrée que l’on admet comme base de raisonnement.
+%%Pragmatique @@ Qui privilégie l’efficacité pratique plutôt que la théorie.
+%%Précaire @@ Qui n'est pas stable, incertain.
+%%Prélude @@ Introduction à une œuvre ou à un événement.
+%%Procrastination @@ Tendance à remettre au lendemain ce que l’on peut faire aujourd’hui.
+%%Prophylaxie @@ Ensemble de mesures pour prévenir les maladies.
+%%Prosodie @@ Étude des règles relatives à la versification et à la prononciation.
+%%Quintessence @@ Ce qu’il y a de meilleur et de plus pur dans quelque chose.
+%%Réminiscence @@ Souvenir vague, lointain, souvent incomplet.
+%%Rhétorique @@ Art de bien parler, de persuader par le discours.
+%%Sang-froid @@ Calme, maîtrise de soi dans des situations difficiles.
+%%Sardonique @@ Moquerie amère et cynique.
+%%Scepticisme @@ Attitude de doute, refus d’admettre une vérité sans preuves suffisantes.
+%%Solipsisme @@ Doctrine philosophique selon laquelle il n'y a de réalité que celle de la conscience individuelle.
+%%Stoïcisme @@ Doctrine philosophique prônant l’acceptation de son destin sans se laisser troubler par les émotions.
+%%Subversif @@ Qui cherche à renverser l’ordre établi.
+%%Superfétatoire @@ Qui est superflu, qui n’apporte rien de plus.
+%%Syllogisme @@ Raisonnement logique déductif à partir de deux propositions.
+%%Syncrétisme @@ Fusion de différentes doctrines ou croyances.
+%%Taciturne @@ Qui parle peu, qui est d'humeur morose.
+%%Tautologie @@ Répétition inutile d’une idée dans une même phrase.
+%%Théorème @@ Proposition démontrée à partir de postulats ou d'axiomes.
+%%Transcendant @@ Qui dépasse les limites de l’expérience ordinaire.
+%%Ubiquité @@ Fait d’être présent en plusieurs lieux à la fois.
+%%Utopie @@ Idéal irréalisable, projet imaginaire.
+%%Vacuité @@ Vide, absence de contenu.
+%%Vénal @@ Qui se laisse corrompre, qui agit par intérêt financier.
+%%Verbeux @@ Qui parle beaucoup, de manière inutilement longue.
+%%Vertu @@ Disposition à faire le bien, à agir avec moralité.
+%%Vicissitude @@ Succession d'événements, souvent imprévus ou défavorables.
+%%Xénophobie @@ Hostilité envers les étrangers ou ce qui est étranger.
+%%Zèle @@ Ardeur à servir une cause ou à accomplir une tâche.
+%%Zénith @@ Point le plus haut dans le ciel atteint par un astre.
+%%Zigzag @@ Ligne brisée formant des angles alternativement aigus et obtus.
+%%Zizanie @@ Désaccord, discorde semée volontairement dans un groupe.
+%%Zygomatique @@ Muscle responsable du sourire.
+%%Émancipation @@ Action de se libérer d'une autorité, d'une contrainte.
+%%Énigmatique @@ Qui est difficile à comprendre, mystérieux.
+%%Éphémère @@ Qui ne dure qu’un court moment.
+%%Érudition @@ Savoir approfondi dans un domaine.
+%%Évanescent @@ Qui disparaît peu à peu, insaisissable.
+%%Éviction @@ Action d’exclure quelqu’un d’un groupe ou d’un lieu.
+%%Évolution @@ Transformation progressive, développement continu.
+%%Éxutoire @@ Moyen de se débarrasser d’un surplus d’émotions ou de pensées.
+%%Émulation @@ Sentiment qui pousse à égaler ou surpasser quelqu'un dans un domaine.
