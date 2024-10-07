@@ -32,7 +32,7 @@ public class Dictionnaire {
             boolean firstEntry = true;
 
             for (Mot m : mots.values()) {
-                String entry = m.getMot().concat(" @@ ").concat(m.getDef());
+                String entry = m.getMot().toLowerCase().concat(" @@ ").concat(m.getDef());
 
                 if (firstEntry) {
                     writer.write(entry);
@@ -43,7 +43,6 @@ public class Dictionnaire {
 
             }
 
-            writer.close();
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -72,8 +71,6 @@ public class Dictionnaire {
                     }
                 }
             }
-
-            reader.close();
 
         } catch (IOException e) {
             System.out.println("File not Found.");
