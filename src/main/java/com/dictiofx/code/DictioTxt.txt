@@ -173,3 +173,108 @@ faible ou faible d'esprit.%%Yacht @@ Grand bateau de plaisance. Bateau de riche 
 %%Évolution @@ Transformation progressive, développement continu.
 %%Éxutoire @@ Moyen de se débarrasser d’un surplus d’émotions ou de pensées.
 %%Émulation @@ Sentiment qui pousse à égaler ou surpasser quelqu'un dans un domaine.
+%%abandonner @@ laisser quelque chose derrière soi ou renoncer.
+%%abdos @@ muscles de l'abdomen, souvent sollicités lors des exercices.
+%%aboyer @@ émettre un cri ou un son, généralement un chien.
+%%abstrait @@ qui n'existe que dans la pensée, sans représentation concrète.
+%%accepter @@ recevoir quelque chose avec plaisir ou acquiescer à.
+%%accident @@ événement inattendu causant des dommages ou des blessures.
+%%accompagner @@ aller ou être avec quelqu'un.
+%%accroître @@ augmenter ou rendre quelque chose plus important.
+%%action @@ un acte ou un processus de faire quelque chose.
+%%actuel @@ qui est en cours ou qui se produit en ce moment.
+%%admirer @@ éprouver de l'admiration pour quelque chose ou quelqu'un.
+%%adulte @@ une personne ayant atteint l'âge de la maturité.
+%%aider @@ apporter une assistance à quelqu'un.
+%%ajouter @@ inclure ou insérer quelque chose en plus.
+%%ajuster @@ modifier légèrement pour qu'il convienne mieux.
+%%aléatoire @@ qui se produit par hasard, sans ordre prévisible.
+%%améliorer @@ rendre quelque chose meilleur ou de meilleure qualité.
+%%analyser @@ examiner en détail pour comprendre ou interpréter.
+%%ancien @@ qui a existé dans le passé; vieux.
+%%apprendre @@ acquérir des connaissances ou des compétences par l'étude ou l'expérience.
+%%appliquer @@ mettre en pratique ou en œuvre une idée ou une méthode.
+%%approfondir @@ aller plus en détail ou plus loin dans un sujet.
+%%approcher @@ se rapprocher de quelqu'un ou de quelque chose.
+%%argument @@ une raison donnée pour soutenir une opinion.
+%%arriver @@ atteindre un lieu ou un état.
+%%art @@ une forme d'expression créative, souvent visuelle.
+%%articulaire @@ relatif aux articulations ou à leur mouvement.
+%%assister @@ participer à un événement ou à une activité.
+%%assurer @@ garantir ou rendre certain.
+%%atmosphère @@ la couche d'air entourant la Terre.
+%%attendre @@ rester en un lieu en prévision d'un événement.
+%%attirer @@ susciter l'intérêt ou l'attention de quelqu'un.
+%%aujourd'hui @@ ce jour-ci; le jour actuel.
+%%aura @@ une qualité distinctive perçue autour d'une personne ou d'une chose.
+%%battre @@ frapper quelque chose ou quelqu'un avec force.
+%%beau @@ agréable à l'œil; esthétique.
+%%besoin @@ nécessité ou exigence de quelque chose.
+%%blanc @@ couleur claire, souvent associée à la pureté.
+%%blesser @@ causer une douleur ou une blessure.
+%%boire @@ ingérer un liquide.
+%%bon @@ de bonne qualité ou satisfaisant.
+%%briller @@ émettre de la lumière; être éclatant.
+%%cacher @@ dissimuler quelque chose.
+%%calculer @@ déterminer par des opérations mathématiques.
+%%camarade @@ un ami ou un compagnon.
+%%campagne @@ région rurale ou lieu éloigné de la ville.
+%%capacité @@ la quantité maximale que quelque chose peut contenir.
+%%captiver @@ attirer l'intérêt ou l'attention de manière intense.
+%%caractère @@ traits distinctifs d'une personne ou d'une chose.
+%%carrière @@ parcours professionnel ou voie de développement.
+%%chaleur @@ énergie thermique; sensation de chaleur.
+%%changer @@ rendre différent; modifier quelque chose.
+%%chaque @@ désignant tous les membres d'un groupe individuellement.
+%%choisir @@ sélectionner ou opter pour quelque chose.
+%%choix @@ l'acte de décider ou de sélectionner quelque chose.
+%%ciel @@ espace au-dessus de la Terre; atmosphère.
+%%clair @@ facilement perceptible; lumineux.
+%%clarté @@ qualité d'être clair ou facilement compréhensible.
+%%client @@ une personne qui utilise les services d'une entreprise.
+%%comprendre @@ saisir le sens ou la signification de quelque chose.
+%%compte @@ un rapport ou un récit d'événements.
+%%construire @@ ériger ou assembler quelque chose.
+%%contagieux @@ pouvant se transmettre d'une personne à une autre.
+%%contrôle @@ pouvoir de diriger ou de réguler.
+%%conversation @@ échange de mots entre deux ou plusieurs personnes.
+%%copain @@ ami ou camarade.
+%%corps @@ ensemble de l'organisme physique.
+%%couleur @@ qualité visuelle déterminée par la lumière.
+%%créer @@ produire ou engendrer quelque chose.
+%%croyance @@ conviction ou foi en quelque chose.
+%%cultiver @@ faire croître des plantes ou des cultures.
+%%danser @@ exécuter un mouvement rythmique du corps.
+%%défendre @@ protéger ou soutenir quelque chose.
+%%définir @@ établir le sens ou les limites de quelque chose.
+%%délirer @@ parler ou agir de manière irrationnelle ou sans cohérence.
+%%demander @@ poser une question ou solliciter quelque chose.
+%%décider @@ choisir une voie ou un cours d'action.
+%%découvrir @@ trouver quelque chose de nouveau.
+%%développer @@ faire croître ou avancer.
+%%différent @@ distinct ou unique par rapport à quelque chose d'autre.
+%%diplôme @@ certificat délivré par une institution d'enseignement.
+%%direction @@ chemin ou orientation vers un objectif.
+%%discuter @@ parler ensemble d'un sujet particulier.
+%%dormir @@ être dans un état de sommeil.
+%%écrire @@ former des mots sur une surface avec un outil.
+%%écouter @@ prêter attention à des sons ou à des paroles.
+%%élargir @@ rendre quelque chose plus grand ou plus vaste.
+%%élever @@ amener quelque chose à un niveau supérieur.
+%%émerger @@ sortir de l'eau ou d'un autre milieu.
+%%empathie @@ capacité de comprendre et de partager les sentiments d'autrui.
+%%encourager @@ donner du soutien ou de l'assurance.
+%%enregistrer @@ consigner ou documenter des informations.
+%%entendre @@ percevoir des sons.
+%%entière @@ complète; totale.
+%%environnement @@ tout ce qui entoure un organisme.
+%%espace @@ une étendue de distance ou un vide.
+%%essayer @@ tenter de faire quelque chose.
+%%établir @@ fonder ou créer quelque chose de durable.
+%%étudier @@ consacrer du temps à l'apprentissage.
+%%étonner @@ surprendre ou émerveiller.
+%%expliquer @@ rendre quelque chose clair ou compréhensible.
+%%expérience @@ connaissance acquise par la pratique.
+%%expliquer @@ donner une raison ou une justification.
+%%expliquer @@ rendre quelque chose compréhensible.
+%%explorer @@ examiner ou chercher des informations.
